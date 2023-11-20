@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-#  定义需要的函数
-def cal_fun(x, y):
-    return x - 30 * y
+# #  定义需要的函数
+# def cal_fun(x, y):
+#     return x - 30 * y
 
 
 def Euler_fun(a, b, h, f):
